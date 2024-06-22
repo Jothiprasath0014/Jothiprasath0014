@@ -11,9 +11,11 @@
 - Embedded Systems
 - Data Science
 - Cyber Security
+- Web Development
 
 ## 🌱 Currently Learning
 - Embedded Systems
+- Full Stack Web Development
 
 ## 📫 How to Reach Me
 - LinkedIn: [Jothiprasath](https://www.linkedin.com/in/jothi-prasath-2081571b1)
