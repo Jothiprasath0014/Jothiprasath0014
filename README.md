@@ -42,6 +42,14 @@ accurate measurements, employing a microcontroller (ESP8266) for real-time data 
    - **Technologies Used:** Robot Framework.
    - [Repository Link](https://github.com/Jothiprasath0014/smart-blind-Testing-robotframework-)
 
+3. **Personal Website**
+   - **Description:** Developed the personal website. This project involved the creation of a personal website using HTML, CSS, and Bootstrap. The
+website serves as an online portfolio, showcasing personal information, skills, projects, and contact details.
+   - **Technologies Used:** HTML, CSS, Bootstrap
+   - [Repository Link](https://github.com/Jothiprasath0014/capstone-project2-Personal-Website.git)
+  
+   
+
 ## Skills
 - **Programming Languages:** Linux, Basic Embedded C, Python, HTML, CSS
 - **Frameworks:** Robot Framework
