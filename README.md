@@ -52,7 +52,7 @@ website serves as an online portfolio, showcasing personal information, skills, 
 
 ## Skills
 - **Programming Languages:** Linux, Basic Embedded C, Python, HTML, CSS
-- **Frameworks:** Robot Framework
+- **Frameworks:** Robot Framework, Bootstrap.
 
 ## Get In Touch
 Feel free to reach out if you want to collaborate on projects, discuss ideas, or just say hi!
