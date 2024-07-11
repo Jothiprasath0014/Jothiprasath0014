@@ -47,6 +47,11 @@ accurate measurements, employing a microcontroller (ESP8266) for real-time data 
 website serves as an online portfolio, showcasing personal information, skills, projects, and contact details.
    - **Technologies Used:** HTML, CSS, Bootstrap
    - [Repository Link](https://github.com/Jothiprasath0014/capstone-project2-Personal-Website.git)
+
+4. **Blog WebApplication**
+   - **Description:** A comprehensive web application designed to enable users to create, view, update, and delete their blog posts. The project is built with a focus on user experience and responsiveness, ensuring seamless functionality across both mobile and desktop devices.
+   - **Technologies Used:** Node.js, Express.js, EJS (Embedded JavaScript), Bootstrap, CSS.
+   -  [Repository Link](https://github.com/Jothiprasath0014/capstone-project3-Blog-WebApplication)
   
    
 
