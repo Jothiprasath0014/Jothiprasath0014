@@ -67,7 +67,9 @@ Feel free to reach out if you want to collaborate on projects, discuss ideas, or
 - [LinkedIn](https://www.linkedin.com/in/jothi-prasath-2081571b1)
 
 
+<!--
 Optional: Add a section for GitHub trophies or other badges
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jothiprasath0014&theme=radical)
+-->
 
 
