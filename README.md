@@ -56,7 +56,7 @@ website serves as an online portfolio, showcasing personal information, skills, 
    
 
 ## Skills
-- **Programming Languages:** Linux, Basic Embedded C, Python, HTML, CSS, Javascript, Node.js.
+- **Programming Languages:** Linux, Basic Embedded C, Python, HTML, CSS, Javascript, Node.js, EJS.
 - **Frameworks:** Robot Framework, Bootstrap, Express.
 - **Database:** PostgreSQL
 
