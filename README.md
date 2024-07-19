@@ -56,8 +56,9 @@ website serves as an online portfolio, showcasing personal information, skills, 
    
 
 ## Skills
-- **Programming Languages:** Linux, Basic Embedded C, Python, HTML, CSS, Javascript.
-- **Frameworks:** Robot Framework, Bootstrap.
+- **Programming Languages:** Linux, Basic Embedded C, Python, HTML, CSS, Javascript, Node.js.
+- **Frameworks:** Robot Framework, Bootstrap, Express.
+- **Database:** PostgreSQL
 
 ## Get In Touch
 Feel free to reach out if you want to collaborate on projects, discuss ideas, or just say hi!
@@ -65,8 +66,8 @@ Feel free to reach out if you want to collaborate on projects, discuss ideas, or
 - [Jothiprasathpa@gmail.com](jothiprasathpa@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jothi-prasath-2081571b1)
 
-<!--
+
 Optional: Add a section for GitHub trophies or other badges
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jothiprasath0014&theme=radical)
--->
+
 
