@@ -20,10 +20,10 @@
 ## 📫 How to Reach Me
 - LinkedIn: [Jothiprasath](https://www.linkedin.com/in/jothi-prasath-2081571b1)
 - Email: [Jothiprasathpa@gmail.com](jothiprasathpa@gmail.com)
+- Portfolio: [Jothiprasath](jothiprasathportfolio.netlify.app/)
 
 ## ⚡ Fun Fact
 I once participated in a hackathon where the main challenge was to code using only one hand.
-
 
 ## Projects
 Here are some of the projects I've been working on:
@@ -42,30 +42,28 @@ accurate measurements, employing a microcontroller (ESP8266) for real-time data 
    - **Technologies Used:** Robot Framework.
    - [Repository Link](https://github.com/Jothiprasath0014/smart-blind-Testing-robotframework-)
 
-3. **Personal Website**
-   - **Description:** Developed the personal website. This project involved the creation of a personal website using HTML, CSS, and Bootstrap. The
-website serves as an online portfolio, showcasing personal information, skills, projects, and contact details.
-   - **Technologies Used:** HTML, CSS, Bootstrap
-   - [Repository Link](https://github.com/Jothiprasath0014/Personal-Website.git)
-
-4. **Blog WebApplication**
+3. **Blog WebApplication**
    - **Description:** A comprehensive web application designed to enable users to create, view, update, and delete their blog posts. The project is built with a focus on user experience and responsiveness, ensuring seamless functionality across both mobile and desktop devices.
    - **Technologies Used:** Node.js, Express.js, EJS (Embedded JavaScript), Bootstrap, CSS.
    -  [Repository Link](https://github.com/Jothiprasath0014/Blog-WebApplication)
 
-5. **Book-Notes WebApplication**
+3. **Book-Notes WebApplication**
    - **Description:** A comprehensive web application designed to manage and document notes for non-fiction books. Built using Node.js, Express, EJS, and PostgreSQL.the application allows users do CRUD method to add, Read, update,and Delete their book notes, including ratings and reading dates. The application also integrates with the Open Library API to fetch book details.
    - **Technologies Used:** Node.js, Express.js, EJS (Embedded JavaScript), Bootstrap, CSS, PostgreSQL, and API
    -  [Repository Link](https://github.com/Jothiprasath0014/Book-Notes)
 
-6. **Secrets WebApplication**
+5. **Secrets WebApplication**
    - **Description:** Secrets App ```(Aurora's Secret)``` is a web application built using Node.js, Express.js, EJS. It allows users to log in locally or through Google Sign-In and provides functionality to view, create, and manage secrets. The application utilizes various NPM packages to handle authentication, session management, and database operations.
    - **Technologies Used:** Node.js, Express.js, EJS (Embedded JavaScript), Bootstrap, CSS, PostgreSQL, and API
    -  [Repository Link](https://github.com/Jothiprasath0014/secrets-app)
-   
+     
+6. **React Portfolio Web‑Application**
+   - **Description:** This project showcases a React-based portfolio application, built to highlight personal projects, skills, and experiences. Utilizing React, SCSS, and various libraries such as react-simple-animate and react-icons, the application features a modern, responsive design optimized for both mobile and desktop devices
+   - **Technologies Used:** React
+   -  [Repository Link](https://github.com/Jothiprasath0014/React-portfolio)
 
 ## Skills
-- **Programming Languages:** Linux, Basic Embedded C, Python, HTML, CSS, Javascript, Node.js, EJS.
+- **Programming Languages:** Linux, Basic Embedded C, Python, HTML, CSS, Javascript, Node.js, EJS, React
 - **Frameworks:** Robot Framework, Bootstrap, Express.
 - **Database:** PostgreSQL
 
