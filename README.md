@@ -76,8 +76,7 @@ Feel free to reach out if you want to collaborate on projects, discuss ideas, or
 
 - [Jothiprasathpa@gmail.com](jothiprasathpa@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jothi-prasath-2081571b1)
--
-[Portfolio](jothiprasathportfolio.netlify.app/) 
+-[Portfolio](jothiprasathportfolio.netlify.app/) 
 
 <!--
 Optional: Add a section for GitHub trophies or other badges
