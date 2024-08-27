@@ -28,7 +28,7 @@ I once participated in a hackathon where the main challenge was to code using on
 ## Projects
 Here are some of the projects I've been working on:
 
-### * **Embedded Systems**
+#### Embedded Systems
 
 1. **Ethanol Detection in Automobiles**
    - **Description:** This project aimed to combat alcohol-impaired driving by developing a robust system using a threshold-based algorithm to detect ethanol levels in vehicle cabins. The primary objective was to reduce accidents and promote responsible driving behavior. Key components included integrating a reliable ethanol sensor for 
@@ -44,24 +44,24 @@ accurate measurements, employing a microcontroller (ESP8266) for real-time data 
    - **Technologies Used:** Robot Framework.
    - [Repository Link](https://github.com/Jothiprasath0014/smart-blind-Testing-robotframework-)
 
-### * **Full Stack Web-Development**
+#### Full Stack Web-Development
 
-3. **Blog WebApplication**
+1. **Blog WebApplication**
    - **Description:** A comprehensive web application designed to enable users to create, view, update, and delete their blog posts. The project is built with a focus on user experience and responsiveness, ensuring seamless functionality across both mobile and desktop devices.
    - **Technologies Used:** Node.js, Express.js, EJS (Embedded JavaScript), Bootstrap, CSS.
    -  [Repository Link](https://github.com/Jothiprasath0014/Blog-WebApplication)
 
-3. **Book-Notes WebApplication**
+2. **Book-Notes WebApplication**
    - **Description:** A comprehensive web application designed to manage and document notes for non-fiction books. Built using Node.js, Express, EJS, and PostgreSQL.the application allows users do CRUD method to add, Read, update,and Delete their book notes, including ratings and reading dates. The application also integrates with the Open Library API to fetch book details.
    - **Technologies Used:** Node.js, Express.js, EJS (Embedded JavaScript), Bootstrap, CSS, PostgreSQL, and API
    -  [Repository Link](https://github.com/Jothiprasath0014/Book-Notes)
 
-5. **Secrets WebApplication**
+3. **Secrets WebApplication**
    - **Description:** Secrets App ```(Aurora's Secret)``` is a web application built using Node.js, Express.js, EJS. It allows users to log in locally or through Google Sign-In and provides functionality to view, create, and manage secrets. The application utilizes various NPM packages to handle authentication, session management, and database operations.
    - **Technologies Used:** Node.js, Express.js, EJS (Embedded JavaScript), Bootstrap, CSS, PostgreSQL, and API
    -  [Repository Link](https://github.com/Jothiprasath0014/secrets-app)
      
-6. **React Portfolio Web‑Application**
+4. **React Portfolio Web‑Application**
    - **Description:** This project showcases a React-based portfolio application, built to highlight personal projects, skills, and experiences. Utilizing React, SCSS, and various libraries such as react-simple-animate and react-icons, the application features a modern, responsive design optimized for both mobile and desktop devices
    - **Technologies Used:** React
    -  [Repository Link](https://github.com/Jothiprasath0014/React-portfolio)
