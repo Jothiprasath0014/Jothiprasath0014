@@ -28,6 +28,8 @@ I once participated in a hackathon where the main challenge was to code using on
 ## Projects
 Here are some of the projects I've been working on:
 
+### * **Embedded Systems**
+
 1. **Ethanol Detection in Automobiles**
    - **Description:** This project aimed to combat alcohol-impaired driving by developing a robust system using a threshold-based algorithm to detect ethanol levels in vehicle cabins. The primary objective was to reduce accidents and promote responsible driving behavior. Key components included integrating a reliable ethanol sensor for 
 accurate measurements, employing a microcontroller (ESP8266) for real-time data processing, and implementing safety measures to deter drunk driving. An optional MQTT Messaging Broker was also developed to send alerts to users or vehicle owners, enhancing overall road safety and accident prevention efforts.
@@ -41,6 +43,8 @@ accurate measurements, employing a microcontroller (ESP8266) for real-time data 
    - **Description:** This project was developed for visually impaired individuals. These trackers use advanced technologies for confident, independent navigation, voice-based guidance, and obstacle detection. Features like customizable alerts and route planning enhance safety..
    - **Technologies Used:** Robot Framework.
    - [Repository Link](https://github.com/Jothiprasath0014/smart-blind-Testing-robotframework-)
+
+### * **Full Stack Web-Development**
 
 3. **Blog WebApplication**
    - **Description:** A comprehensive web application designed to enable users to create, view, update, and delete their blog posts. The project is built with a focus on user experience and responsiveness, ensuring seamless functionality across both mobile and desktop devices.
@@ -72,7 +76,8 @@ Feel free to reach out if you want to collaborate on projects, discuss ideas, or
 
 - [Jothiprasathpa@gmail.com](jothiprasathpa@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jothi-prasath-2081571b1)
-
+-
+[Portfolio](jothiprasathportfolio.netlify.app/) 
 
 <!--
 Optional: Add a section for GitHub trophies or other badges
