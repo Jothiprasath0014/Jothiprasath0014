@@ -20,7 +20,7 @@
 ## 📫 How to Reach Me
 - LinkedIn: [Jothiprasath](https://www.linkedin.com/in/jothi-prasath-2081571b1)
 - Email: [Jothiprasathpa@gmail.com](jothiprasathpa@gmail.com)
-- Portfolio: [Jothiprasath](jothiprasathportfolio.netlify.app/)
+- Portfolio: [Jothiprasath](https://jothiprasathportfolio.netlify.app/)
 
 ## ⚡ Fun Fact
 I once participated in a hackathon where the main challenge was to code using only one hand.
