@@ -71,6 +71,8 @@ accurate measurements, employing a microcontroller (ESP8266) for real-time data 
 - **Frameworks:** Robot Framework, Bootstrap, Express.
 - **Database:** PostgreSQL
 
+  [![My Skills](https://skillicons.dev/icons?i=postgresql,expressjs,react,nodejs,html,css,javascript,linux&perline=4)](https://skillicons.dev)
+
 ## Get In Touch
 Feel free to reach out if you want to collaborate on projects, discuss ideas, or just say hi!
 
