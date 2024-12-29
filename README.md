@@ -16,7 +16,8 @@
 ## 🌱 Currently Learning
 - Embedded Systems
 - Full Stack Web Development
-
+- Data Analytics
+  
 ## 📫 How to Reach Me
 - LinkedIn: [Jothiprasath](https://www.linkedin.com/in/jothi-prasath-2081571b1)
 - Email: [Jothiprasathpa@gmail.com](jothiprasathpa@gmail.com)
@@ -65,13 +66,25 @@ accurate measurements, employing a microcontroller (ESP8266) for real-time data 
    - **Description:** This project showcases a React-based portfolio application, built to highlight personal projects, skills, and experiences. Utilizing React, SCSS, and various libraries such as react-simple-animate and react-icons, the application features a modern, responsive design optimized for both mobile and desktop devices
    - **Technologies Used:** React
    -  [Repository Link](https://github.com/Jothiprasath0014/React-portfolio)
+  
+#### Data Analysis
+
+1. **Financial Analysis**
+   - **Description:** Financial data analysis involves examining financial datasets to uncover patterns, trends, and insights that aid decision-making. Power BI, a robust data visualization and business intelligence tool, enables analysts to create interactive dashboards.
+   - **Tecnologies Used:** Power BI
+   -  [Repository Link](https://github.com/Financial_Analytics)
+
+1. **World_Population (EDA)**
+   - **Description:**  world population dataset to uncover patterns, trends, and insights about global population growth over time. 
+   - **Tecnologies Used:** Python, Data cleaning
+   -  [Repository Link](https://github.com/Jothiprasath0014/World_Population-EDA-)
 
 ## Skills
 - **Programming Languages:** Linux, Basic Embedded C, Python, HTML, CSS, Javascript, Node.js, EJS, React
 - **Frameworks:** Robot Framework, Bootstrap, Express.
 - **Database:** PostgreSQL
 
-  [![My Skills](https://skillicons.dev/icons?i=postgresql,expressjs,react,nodejs,html,css,javascript,linux&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=postgresql,expressjs,react,nodejs,html,css,javascript,python,linux&perline=4)](https://skillicons.dev)
 
 ## Get In Touch
 Feel free to reach out if you want to collaborate on projects, discuss ideas, or just say hi!
