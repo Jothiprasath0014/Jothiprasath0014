@@ -13,10 +13,10 @@
 - Cyber Security
 - Web Development
 
-## 🌱 Currently Learning
-- Embedded Systems
-- Full Stack Web Development
-- Data Analytics
+## 🌱 Learned (Domains)
+- Embedded Systems (**Intern -** FeOS Technologies, Chennai)
+- Full Stack Web Development (**Self Learning -** Udemy)
+- Data Analytics (**Course -** Niya Edu Tech, Erode)
   
 ## 📫 How to Reach Me
 - LinkedIn: [Jothiprasath](https://www.linkedin.com/in/jothi-prasath-2081571b1)
@@ -74,15 +74,22 @@ accurate measurements, employing a microcontroller (ESP8266) for real-time data 
    - **Tecnologies Used:** Power BI
    -  [Repository Link](https://github.com/Financial_Analytics)
 
-1. **World_Population (EDA)**
+2. **World_Population (EDA)**
    - **Description:**  world population dataset to uncover patterns, trends, and insights about global population growth over time. 
    - **Tecnologies Used:** Python, Data cleaning
    -  [Repository Link](https://github.com/Jothiprasath0014/World_Population-EDA-)
 
+3. **AI Job Market Insights**
+   - **Description:**  The "AI-Powered Job Market Insights" dataset provides a synthetic but realistic snapshot of the modern job market, particularly focusing on the role of artificial intelligence (AI) and automation across various industries
+   - **Tecnologies Used:** Python, Data cleaning, PowerBI, EDA
+   -  [Repository Link](https://github.com/Jothiprasath0014/AI-Powered_Job_Market_Insight)
+
+
 ## Skills
 - **Programming Languages:** Linux, Basic Embedded C, Python, HTML, CSS, Javascript, Node.js, EJS, React
 - **Frameworks:** Robot Framework, Bootstrap, Express.
-- **Database:** PostgreSQL
+- **Database:** PostgreSQL, MySQL
+- **Tools:** Power BI, Excel, PostMan
 
   [![My Skills](https://skillicons.dev/icons?i=postgresql,expressjs,react,nodejs,html,css,javascript,python,linux&perline=4)](https://skillicons.dev)
 
